@@ -1,5 +1,11 @@
 # docs
 
+## 1.1.0
+
+### Minor Changes
+
+- 0e75f95: added a new link to changeset github with short description
+
 ## 1.0.1
 
 ### Patch Changes
