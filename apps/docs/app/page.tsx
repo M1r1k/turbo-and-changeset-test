@@ -47,6 +47,13 @@ const LINKS = [
     description:
       " Instantly deploy your Turborepo to a shareable URL with Vercel.",
   },
+  {
+    title: "Changeset",
+    href: "https://github.com/changesets/changesets",
+    description:
+      " A tool to manage versioning and changelogs\n" +
+      "with a focus on multi-package repositories",
+  },
 ];
 
 export default function Page(): JSX.Element {
