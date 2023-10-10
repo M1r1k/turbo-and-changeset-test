@@ -3,7 +3,7 @@
   "changelog": "@changesets/cli/changelog",
   "commit": false,
   "linked": [],
-  "fixed": [["m1r1k-test-ui", "m1r1k-test-eslint-config-custom", "m1r1k-test-tsconfig"]],
+  "fixed": [],
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
