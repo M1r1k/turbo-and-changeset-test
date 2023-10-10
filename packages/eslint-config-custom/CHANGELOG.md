@@ -1,5 +1,11 @@
 # m1r1k-test-eslint-config-custom
 
+## 1.3.0
+
+### Minor Changes
+
+- Aaaand another one
+
 ## 1.2.0
 
 ### Minor Changes
