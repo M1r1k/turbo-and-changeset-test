@@ -4,14 +4,21 @@
     "build": "turbo run build",
     "dev": "turbo run dev",
     "lint": "turbo run lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "changeset:version": "changeset version",
+    "changeset:publish": "changeset publish",
+    "changeset": "changeset add"
+
   },
   "devDependencies": {
     "eslint": "^8.48.0",
     "prettier": "^3.0.3",
-    "tsconfig": "workspace:*",
+    "m1r1k-test-tsconfig": "workspace:*",
     "turbo": "latest"
   },
   "packageManager": "pnpm@8.6.10",
-  "name": "turbo-and-changeset-test"
+  "name": "turbo-and-changeset-test",
+  "dependencies": {
+    "@changesets/cli": "^2.26.2"
+  }
 }
