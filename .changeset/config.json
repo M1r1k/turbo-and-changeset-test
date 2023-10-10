@@ -2,13 +2,11 @@
   "$schema": "https://unpkg.com/@changesets/config@2.3.1/schema.json",
   "changelog": "@changesets/cli/changelog",
   "commit": false,
-  "linked": [],
-  "fixed": [],
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
   "ignore": [],
-  "__experimentalUnsafeOptions_WILL_CHANGE_IN_PATCH": {
+  "___experimentalUnsafeOptions_WILL_CHANGE_IN_PATCH": {
     "updateInternalDependents": "always"
   }
 }
