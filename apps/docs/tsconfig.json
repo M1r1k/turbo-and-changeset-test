@@ -1,5 +1,5 @@
 {
-  "extends": "tsconfig/nextjs.json",
+  "extends": "m1r1k-test-tsconfig/nextjs.json",
   "compilerOptions": {
     "plugins": [{ "name": "next" }]
   },
